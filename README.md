@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/abbas_uddin_01/" target="_blank">
-    <img src="https://freebiehive.com/wp-content/uploads/2023/08/X-Logo.jpg" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://codepen.io/codeabbas" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
@@ -41,7 +41,7 @@
 ###
 <p align="left">
 <a href="https://codepen.io/codeabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codeabbas" height="30" width="40" /></a>
-<a href="https://twitter.com/abbas_uddin_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abbas_uddin_01" height="30" width="40" /></a>
+<a href="https://twitter.com/abbas_uddin_01" target="blank"><img align="center" src="https://freebiehive.com/wp-content/uploads/2023/08/X-Logo.jpg" alt="abbas_uddin_01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abbas-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbas-dev" height="30" width="40" /></a>
 <a href="https://fb.com/codeabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codeabbas" height="30" width="40" /></a>
 <a href="https://instagram.com/code_abbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_abbas" height="30" width="40" /></a>
