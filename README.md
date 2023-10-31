@@ -41,7 +41,7 @@
 ###
 <p align="left">
 <a href="https://codepen.io/codeabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codeabbas" height="30" width="40" /></a>
-<a href="https://twitter.com/abbas_uddin_01" target="blank"><img align="center" src="https://freebiehive.com/wp-content/uploads/2023/08/X-Logo.jpg" alt="abbas_uddin_01" height="30" width="40" /></a>
+<a href="https://twitter.com/abbas_uddin_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/CodeAbbas/abbas-uddin/main/img/twitter-x.png" alt="abbas_uddin_01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abbas-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbas-dev" height="30" width="40" /></a>
 <a href="https://fb.com/codeabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codeabbas" height="30" width="40" /></a>
 <a href="https://instagram.com/code_abbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_abbas" height="30" width="40" /></a>
