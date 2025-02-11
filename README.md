@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7p1jhNTbcTHtqV9qp_ELTcUrgVtp9pp__GCzPkOnUvgZUzG0kV18J2ZJ&s=10)](https://abbas-uddin.netlify.app/)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7p1jhNTbcTHtqV9qp_ELTcUrgVtp9pp__GCzPkOnUvgZUzG0kV18J2ZJ&s=10)](https://abbasuddin.com/)
 <h1 align="center">Hi 🙋‍♂️, I'm Abbas Uddin</h1>
 <h3 align="center">A passionate Front-end developer from Bangladesh</h3>
 <div align="center">
@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Java,Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [Abbas Uddin](https://abbas-uddin.netlify.app/)
+- 👨‍💻 All of my projects are available at [Abbas Uddin](https://abbasuddin.com/)
 
 - 📫 How to reach me **abbax.uddin@gmail.com**
 
