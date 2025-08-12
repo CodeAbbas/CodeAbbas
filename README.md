@@ -51,17 +51,10 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="52" alt="wordpress logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" width="52" alt="c"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="c++"  />
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" width="52" alt="Figma"  />
- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.svg" height="40" width="52" alt="Figma"  />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,c,python" />
+  <img src="https://skillicons.dev/icons?i=java,laravel,php,r,cpp,git,mysql" />
 </div>
+
 
 ###
 
