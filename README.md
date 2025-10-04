@@ -40,11 +40,11 @@
 
 ###
 <p align="left">
-<a href="https://codepen.io/codeabbas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Font_Awesome_5_brands_codepen.svg" alt="codeabbas" height="30" width="40" /></a>
-<a href="https://twitter.com/abbas_uddin_01" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="abbas_uddin_01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abbas-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbas-dev" height="30" width="40" /></a>
-<a href="https://fb.com/codeabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codeabbas" height="30" width="40" /></a>
-<a href="https://instagram.com/code_abbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_abbas" height="30" width="40" /></a>
+<a href="https://codepen.io/codeabbas" target="blank"><img align="center" src="img/codepen.png" alt="codeabbas" height="30" width="30" /></a>
+<a href="https://twitter.com/abbas_uddin_01" target="blank"><img align="center" src="img/twitter.png" alt="abbas_uddin_01" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/abbas-dev" target="blank"><img align="center" src="img/linkedin.png" alt="abbas-dev" height="30" width="30" /></a>
+<a href="https://fb.com/codeabbas" target="blank"><img align="center" src="img/facebook.png" alt="codeabbas" height="30" width="30" /></a>
+<a href="https://instagram.com/code_abbas" target="blank"><img align="center" src="img/instagram.png" alt="code_abbas" height="30" width="30" /></a>
 </p>
 <h3 align="left">🛠 Language and tools</h3>
 
