@@ -18,13 +18,19 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeabbas&label=Profile%20views&color=0e75b6&style=flat" alt="codeabbas" /> </p>
+<div> <img src="https://komarev.com/ghpvc/?username=codeabbas&label=Profile%20views&color=0e75b6&style=flat" alt="codeabbas" /> 
+  <img align="right" src="https://img.shields.io/badge/London-UK-0e75b6?style=flat&logo=googlemaps&logoColor=white" alt="Location: London, UK" /></div>
+  
 
 - 🔭 I’m currently working on **JavaScript**
 
 - 🌱 I’m currently learning **Java,Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [Abbas Uddin](https://abbasuddin.com/)
+- 👨‍💻 All of my projects are available at 
+  <a href="https://abbasuddin.com/">
+  <img src="https://img.shields.io/badge/abbasuddin.com-FFFFFF?style=flat&logo=googlechrome" alt="abbasuddin.com" width="250" height="50"/>
+</a>
+
 
 - 📫 How to reach me **abbax.uddin@gmail.com**
 
