@@ -73,3 +73,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeabbas&show_icons=true&locale=en" alt="codeabbas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeabbas&" alt="codeabbas" /></p>
+
+![Free Palestine](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RzazF2M295cXZ6bWFmMzY0cjBqajM1NG0xazJjZ2JtYm52OWU3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XPAaA8b1W6M8w/giphy.gif)
