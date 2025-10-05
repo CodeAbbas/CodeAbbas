@@ -45,7 +45,8 @@
 <a href="https://linkedin.com/in/abbas-dev" target="blank"><img align="center" src="img/linkedin-logo.png" alt="abbas-dev" height="30" width="30" /></a>&nbsp
 <a href="https://github.com/CodeAbbas/" target="blank"><img src="img/github.png" alt="CodeAbbas" align="center" height="30" width="30"/></a>&nbsp
 <a href="https://fb.com/codeabbas" target="blank"><img align="center" src="img/facebook.png" alt="codeabbas" height="30" width="30" /></a>&nbsp
-<a href="https://instagram.com/code_abbas" target="blank"><img align="center" src="img/instagram.png" alt="code_abbas" height="30" width="30" /></a>
+<a href="https://instagram.com/code_abbas" target="blank"><img align="center" src="img/instagram.png" alt="code_abbas" height="30" width="30" /></a>&nbsp
+<a href="mailto:abbax.uddin@gmail.com?subject=Reaching%20Out" target="blank"><img align="center" src="img/apple.png" alt="code_abbas" height="40" width="40" /></a>
 
 </p>
 <h3 align="left">🛠 Language and tools</h3>
