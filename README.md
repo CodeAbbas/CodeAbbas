@@ -52,7 +52,7 @@
 <a href="https://github.com/CodeAbbas/" target="blank"><img src="img/github.png" alt="CodeAbbas" align="center" height="35" width="35"/></a>&nbsp
 <a href="https://fb.com/codeabbas" target="blank"><img align="center" src="img/facebook.png" alt="codeabbas" height="35" width="35" /></a>&nbsp
 <a href="https://instagram.com/code_abbas" target="blank"><img align="center" src="img/instagram.png" alt="code_abbas" height="35" width="35" /></a>&nbsp
-<a href="mailto:abbax.uddin@gmail.com?subject=Reaching%20Out" target="blank"><img align="center" src="img/apple.png" alt="code_abbas" height="35" width="35" /></a>
+<a href="mailto:abbax.uddin@gmail.com?subject=Reaching%20Out" target="blank"><img align="center" src="img/mail.png" alt="code_abbas" height="35" width="35" /></a>
 
 </p>
 <h3 align="left">🛠 Language and tools</h3>
