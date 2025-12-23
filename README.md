@@ -74,4 +74,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeabbas&" alt="codeabbas" /></p>
 
-![Free Palestine](img/source.gif)
+![Free Palestine](https://images.squarespace-cdn.com/content/6570bbddbba950449b059025/1739415753721-ESMXEL3BSZANXBC0JTOX/FREE+PALESTINE+FREE+SUDAN+%281200+x+628+px%29.png?content-type=image%2Fpng)
