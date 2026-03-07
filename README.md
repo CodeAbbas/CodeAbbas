@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7p1jhNTbcTHtqV9qp_ELTcUrgVtp9pp__GCzPkOnUvgZUzG0kV18J2ZJ&s=10)](https://abbasuddin.com/)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7p1jhNTbcTHtqV9qp_ELTcUrgVtp9pp__GCzPkOnUvgZUzG0kV18J2ZJ&s=10)](https://abbasuddin.dev/)
 <h1 align="center">Hi 🙋‍♂️, I'm Abbas Uddin</h1>
 <h3 align="center">A passionate Front-end developer from Bangladesh</h3>
 <div align="center">
@@ -27,8 +27,8 @@
 - 🌱 I’m currently learning **Java,Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at 
-  <a href="https://abbasuddin.com/">
-  <img src="https://img.shields.io/badge/abbasuddin.com-FFFFFF?style=flat&logo=googlechrome" alt="abbasuddin.com" width="250" height="50"/>
+  <a href="https://abbasuddin.dev/">
+  <img src="https://img.shields.io/badge/abbasuddin.dev-FFFFFF?style=flat&logo=googlechrome" alt="abbasuddin.dev" width="250" height="50"/>
 </a>
 
 
