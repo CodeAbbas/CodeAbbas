@@ -24,7 +24,7 @@
 
 - 🌱 I'm currently learning **Next.js, Laravel, Cloud Native Development, AngularJS**
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available at<br>
   <a href="https://abbasuddin.dev/">
   <img src="https://img.shields.io/badge/abbasuddin.dev-FFFFFF?style=flat&logo=googlechrome" alt="abbasuddin.dev" width="250" height="50"/>
 </a>
