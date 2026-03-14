@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<img align="right" alt="Coding" width="400" src="/img/AbbasUddin_animation.webp"/>
+<kbd><img align="right" alt="Coding" width="400" src="/img/AbbasUddin_animation.webp"/></kbd>
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=codeabbas&label=Profile%20views&color=0e75b6&style=flat" alt="codeabbas" />
