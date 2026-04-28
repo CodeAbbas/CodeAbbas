@@ -1,4 +1,3 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7p1jhNTbcTHtqV9qp_ELTcUrgVtp9pp__GCzPkOnUvgZUzG0kV18J2ZJ&s=10)](https://abbasuddin.dev/)
 <h1 align="center">Hi 🙋‍♂️, I'm Abbas Uddin</h1>
 <h3 align="center">A passionate Front-End Developer based in London, UK</h3>
 <div align="center">
