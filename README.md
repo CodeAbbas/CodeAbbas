@@ -12,12 +12,12 @@
   </a>
 </div>
 
-<img align="right" alt="Coding" width="400" src="/img/AbbasUddin_animation.webp"/>
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=codeabbas&label=Profile%20views&color=0e75b6&style=flat" alt="codeabbas" />
-  <img align="right" src="https://img.shields.io/badge/London-UK-0e75b6?style=flat&logo=googlemaps&logoColor=white" alt="Location: London, UK" />
+  <img src="https://img.shields.io/badge/London-UK-0e75b6?style=flat&logo=googlemaps&logoColor=white" alt="Location: London, UK" />
 </div>
+<img align="right" alt="Coding" width="400" src="/img/AbbasUddin_animation.webp"/>
 
 - 🔭 I'm currently working on my **Computing Systems Project (Dissertation)** and **Portfolio at [abbasuddin.dev](https://abbasuddin.dev/)**
 
